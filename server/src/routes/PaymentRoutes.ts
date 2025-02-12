@@ -6,3 +6,4 @@ const router = Router();
 router.post("/payment", createPayment);
 
 export default router;
+
